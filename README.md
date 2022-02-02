@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 깃허브 위젯도 나중에 추가하자
 - 블로그도...
-- 
+- 교환학생 기록도.. 개발경험도..
 -->
