@@ -2,7 +2,7 @@
 > #### From sunshining airbase!😓 I'm currently in military service, until 23/02/09.
 
 > Reviewing: Python, Algorithms, & Data Structures  
-> Studying: C++, System, ML, and bunch of english sentences  
+> Studying: Linux, C++, System, ML, and bunch of english sentences  
 > Interested in: Sociology, Urban engineering, Diplomacy, Economics, and Literatures  
 
 > I hope I can adapt well to 📚 after returning to school🤗
