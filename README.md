@@ -1,9 +1,11 @@
 ### Hi there 👋
-> #### From sunshining airbase!😄 I'm currently in military service, until 23/02/09.
+> #### From sunshining airbase!😓 I'm currently in military service, until 23/02/09.
 
-> Reviewing Python, Algorithms, & Data Structures.  
-> Studying C++, System, ML, and bunch of english sentences.  
-> I hope I can adapt well to 📚 after returning to school😅
+> Reviewing: Python, Algorithms, & Data Structures  
+> Studying: C++, System, ML, and bunch of english sentences  
+> Interested in: Sociology, Urban engineering, Diplomacy, Economics, and Literatures  
+
+> I hope I can adapt well to 📚 after returning to school🤗
 ###### *Profile image thanks to [aidan.leitch](https://www.tinkercad.com/things/4hAO6GgTgpU) (CC BY-SA 3.0)*
 <!--
 **sciberbee/sciberbee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
