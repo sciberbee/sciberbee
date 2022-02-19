@@ -1,5 +1,5 @@
 ### Hi there 👋
-> #### From sunshining airbase!😓 I'm currently in military service, until 23/02/09.
+> #### From shiny airbase!😓 I'm currently in military service, until 23/02/09.
 
 > Reviewing: Python, Algorithms, & Data Structures  
 > Studying: Linux, C++, System, ML, and bunch of english sentences  
