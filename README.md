@@ -2,7 +2,7 @@
 > #### 😓 I'm currently in military service, until 23/02/09.
 
 > Reviewing: Python, Algorithms, & Data Structures  
-> Studying: Linux, C++, System, ML, and english readings    
+> Studying: Linux, Python, OOP, AI, and english readings    
 > Personal Interest: Sociology, Urban engineering, Diplomacy, Economics, and Literatures  
 
 > I hope I can adapt well to 📚 after returning to school🤗
