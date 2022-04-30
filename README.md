@@ -1,7 +1,7 @@
 ### Hi there 👋
 > #### 😓 I'm currently in military service, until 23/02/09.
 
-> Reviewing: DS-Algorithms, Linux, Architecture
+> Reviewing: DS-Algorithms, Linux tools, Architectures  
 > Studying: Probab/Stat, ML-DL, Data Analysis, and more of English language    
 > Personal Interest: Sociology of science, Robotics, Economics  
 
