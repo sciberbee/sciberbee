@@ -2,8 +2,8 @@
 > #### 😓 I'm currently in military service, until 23/02/09.
 
 > Reviewing: DS-Algorithms, Linux tools, Architectures  
-> Studying: Probab/Stat, ML-DL, Data Analysis, and more of English language    
-> Personal Interest: Sociology of science, Robotics, Economics  
+> Studying: Probability and stat., ML-DL, Data Analysis, and much more fluency of English language    
+> Personal Interest: Sociology of science, Robotics, Economics, Game Theory
 
 > I hope I can adapt well to 📚 after returning to college🤗
 ###### *Profile image thanks to [aidan.leitch](https://www.tinkercad.com/things/4hAO6GgTgpU) (CC BY-SA 3.0)*
