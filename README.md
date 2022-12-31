@@ -1,5 +1,5 @@
 ### Hi there 👋
-> #### 😓 I'm currently in military service, until 23/02/09.
+> #### 😓 I'm currently at 42 Seoul - La Piscine.
 
 > Reviewing: DS-Algorithms, Linux tools, Architectures  
 > Studying: Probability and stat., ML-DL, Data Analysis, and much more fluency of English language    
