@@ -1,5 +1,5 @@
 ### Hi there 👋
-> #### 😓 I'm currently at 42 Seoul - La Piscine.
+> #### 😸 I've returned to my school🏫 life!
 
 > Reviewing: DS-Algorithms, Linux tools, Architectures  
 > Studying: Probability and stat., ML-DL, Data Analysis, and much more fluency of English language    
