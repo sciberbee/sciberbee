@@ -4,7 +4,6 @@
 > Studying: Data Analysis, Platform Influences, and some English  
 > Personal Interest: Business Informatics, Sociology, Economics, Game Theory
 
-> I hope I can adapt well to 📚 after returning to college🤗
 ###### *Profile image thanks to [aidan.leitch](https://www.tinkercad.com/things/4hAO6GgTgpU) (CC BY-SA 3.0)*
 <!--
 **sciberbee/sciberbee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
