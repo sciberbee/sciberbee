@@ -1,9 +1,8 @@
 ### Hi there 👋
-> #### 😸 I've returned to my school🏫 life!
+> #### I've returned to school🏫
 
-> Reviewing: DS-Algorithms, Linux tools, Architectures  
-> Studying: Probability and stat., ML-DL, Data Analysis, and much more fluency of English language    
-> Personal Interest: Sociology of science, Robotics, Economics, Game Theory
+> Studying: Data Analysis, Platform Influences, and some English  
+> Personal Interest: Business Informatics, Sociology, Economics, Game Theory
 
 > I hope I can adapt well to 📚 after returning to college🤗
 ###### *Profile image thanks to [aidan.leitch](https://www.tinkercad.com/things/4hAO6GgTgpU) (CC BY-SA 3.0)*
