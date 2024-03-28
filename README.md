@@ -1,10 +1,8 @@
-### Hi there 👋
-> #### I've returned to school🏫
+### Hi there
 
 > Studying: Data Analysis, Platform Influences, and some English  
 > Personal Interest: Business Informatics, Sociology, Economics, Game Theory
 
-###### *Profile image thanks to [aidan.leitch](https://www.tinkercad.com/things/4hAO6GgTgpU) (CC BY-SA 3.0)*
 <!--
 **sciberbee/sciberbee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
