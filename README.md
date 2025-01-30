@@ -1,6 +1,6 @@
 ### Hi there
 
-> Studying: Data Analysis, Platform Influences, and some English  
+> Studying: Web Develop, AWS, Data Analysis and Platform
 > Personal Interest: Business Informatics, Sociology, Economics, Game Theory
 
 <!--
